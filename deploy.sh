@@ -1,0 +1,1 @@
+gcloud functions deploy dish_sent_to_core --runtime python38 --trigger-http --allow-unauthenticated
